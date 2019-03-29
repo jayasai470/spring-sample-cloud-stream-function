@@ -16,7 +16,7 @@ import java.util.function.Consumer;
 public class StreamFunctionApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(StreamFunctionApplication.class, "--spring.cloud.stream.function.definition=storeSync");
+		SpringApplication.run(StreamFunctionApplication.class);
 	}
 
 
