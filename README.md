@@ -1,5 +1,8 @@
 # spring-sample-cloud-stream-function
 
+sample repository for below issue
+https://stackoverflow.com/questions/55368204/is-there-an-integration-of-spring-cloud-function-webflux-spring-cloud-stream-w
+
 docker-compose up -d starts kafka and zookeeper locally
 
 # Main goal
